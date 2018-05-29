@@ -14,6 +14,7 @@ syn keyword wsdKeyword title
 syn keyword wsdKeyword note left right over of
 syn keyword wsdKeyword alt opt loop else
 syn keyword wsdKeyword end destroy
+syn keyword wsdKeyword participant
 
 " Comments
 syn keyword wsdTodo contained TODO FIXME XXX NOTE
